@@ -1,3 +1,6 @@
 # Resume
-Created using python and easygui
-Note: Only way to come out of resume is to select exit
+To get easygui using the following command
+     pip install --upgrade easygui
+     
+Note:
+To exit from the resume select Exit.
